@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  font-weight: bold;
+}
+.forecast {
+  font-size: 0.9em;
+}
+span {
+  font-size: 1em;
+}
+li:hover {
+  background-color: lightgray;
+  text-decoration: underline;
+}
